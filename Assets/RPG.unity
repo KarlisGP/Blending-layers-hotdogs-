@@ -12017,6 +12017,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   rb: {fileID: 362007103}
+  movement: {x: 0, y: 0}
+  anim: {fileID: 362007105}
 --- !u!95 &362007105
 Animator:
   serializedVersion: 7
